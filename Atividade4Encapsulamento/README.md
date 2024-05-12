@@ -7,7 +7,7 @@
 
 • a descrição do item
 
-• a quantidade comprada do item e 
+• a quantidade comprada do item
 
 • o preço unitário do item.
 
